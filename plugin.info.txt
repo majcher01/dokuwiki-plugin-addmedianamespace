@@ -1,0 +1,7 @@
+base   addmedianamespace
+author Jakub Majcherski
+email  jakub@majcherski.com
+date   2024-03-01
+name   addmedianamespace plugin
+desc   plugin that makes adding media namespaces easier
+url    https://www.dokuwiki.org/plugin:addmedianamespace
