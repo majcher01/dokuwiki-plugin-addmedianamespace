@@ -1,3 +1,7 @@
+const mainlocation = window.location.href;
+
+if(mainlocation.includes("media")){
+
 const tree=document.querySelector('#media__tree');
 
 
@@ -56,3 +60,4 @@ inputfield.addEventListener("keypress", function(event) {
 tree.prepend(addnamespace);
 tree.prepend(inputfield);
 //inputfield.outerHTML+="<br>";
+}
